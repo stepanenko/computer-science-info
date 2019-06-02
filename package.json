@@ -2,14 +2,19 @@
   "name": "scotch-angular-start",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "main.js",
   "scripts": {
-    "lite": "lite-server"
+    "start": "tsc && concurrently \"npm run tsc:w\" \"npm run lite\"",
+    "lite": "lite-server",
+    "tsc": "tsc",
+    "tsc:w": "tsc -w"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "lite-server": "^2.5.3"
+    "concurrently": "^4.1.0",
+    "lite-server": "^2.5.3",
+    "typescript": "^3.5.1"
   }
 }
