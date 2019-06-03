@@ -1,4 +1,4 @@
-# Video [Getting Started with Angular](https://coursehunters.net/course/nachalo-raboty-s-angular)
+# Scotch.io: [Getting Started with Angular](https://coursehunters.net/course/nachalo-raboty-s-angular)
 
 Current -> Урок 4. TypeScript Setup 00:07:31
 
