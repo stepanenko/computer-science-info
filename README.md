@@ -1,5 +1,7 @@
 # Scotch.io: [Getting Started with Angular](https://coursehunters.net/course/nachalo-raboty-s-angular)
 
+Total Duration: 02:03:46
+
 Current -> Урок 4. TypeScript Setup 00:07:31
 
 Урок 5. TypeScript Fun 00:05:45
