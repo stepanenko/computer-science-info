@@ -1,8 +1,11 @@
 
-const message = 'hello';
+class Greeter {
 
-function saySomething(message: string = 'whats up') {
-  console.log(message);
+  saySomething(message: string = 'whats up') {
+    return message + ' something';
+  }
 }
 
-saySomething(message);
+var greeter = new Greeter();
+
+greeter.saySomething('hello');
