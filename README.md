@@ -2,11 +2,7 @@
 
 Total Duration: 02:03:46
 
-Current -> Урок 4. TypeScript Setup 00:07:31
-
-Урок 5. TypeScript Fun 00:05:45
-
-Урок 6. Angular Dependencies 00:03:54
+Current -> Урок 6. Angular Dependencies 00:03:54
 
 Урок 7. Angular Packages 00:03:39
 
