@@ -1,4 +1,8 @@
-# Scotch.io: [Getting Started with Angular](https://coursehunters.net/course/nachalo-raboty-s-angular)
+# Minimal Angular App
+### Only the most important files were copied from generated angular 8 app
+
+Started as video tutorial by Scotch.io:
+[Getting Started with Angular](https://coursehunters.net/course/nachalo-raboty-s-angular)
 
 Total Duration: 02:03:46
 
