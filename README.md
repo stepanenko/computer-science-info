@@ -1,4 +1,4 @@
-# Minimal Angular App
+# Scotch Angular Minimal App
 ### Only the most important files were copied from generated angular 8 app
 
 Started as video tutorial by Scotch.io:
