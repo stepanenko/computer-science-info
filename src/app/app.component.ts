@@ -7,5 +7,10 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'fresh';
+  message = 'Hello';
+  users = [
+    { id: 24, name: 'Sergio', username: 'stepserg' },
+    { id: 12, name: 'Trom', username: 'trom' },
+    { id: 31, name: 'Holly', username: 'hollybout' }
+  ];
 }
