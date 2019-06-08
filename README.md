@@ -2,15 +2,7 @@
 
 Total Duration: 02:03:46
 
-Current -> Урок 6. Angular Dependencies 00:03:54
-
-Урок 7. Angular Packages 00:03:39
-
-Урок 8. System.js 00:06:31
-
-Урок 9. Taking a Step Back 00:03:32
-
-Урок 10. First Angular 2 App 00:09:25
+Current -> Урок 10. First Angular 2 App 00:09:25
 
 Урок 11. Angular 2 Basics 00:08:48
 
