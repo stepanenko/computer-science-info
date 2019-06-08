@@ -3,7 +3,7 @@
 
 Started as video tutorial by Scotch.io:
 [Getting Started with Angular](https://coursehunters.net/course/nachalo-raboty-s-angular)
-
+Lessons 3 to 9 are deprecated.
 Total Duration: 02:03:46
 
 Current -> Урок 10. First Angular 2 App 00:09:25
