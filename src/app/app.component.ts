@@ -15,10 +15,14 @@ export class AppComponent {
     { id: 31, name: 'Holly', username: 'hollybout' },
     { id: 5, name: 'Jack', username: 'jackie344' }
   ];
-
   activeUser: User;
+
   selectUser(user) {
     this.activeUser = user;
-    console.log(this.activeUser);
   }
+
+  onUserCreated(event) {
+    this.users.push(event.user);
+  }
+
 }
