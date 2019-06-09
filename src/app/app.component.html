@@ -26,7 +26,9 @@
         <div *ngIf="users">
           <ul class="list-group users-list">
             <li class="list-group-item"
-              *ngFor="let user of users" >
+              *ngFor="let user of users"
+              (click)="selectUser(user)"
+              [class.active]="user === activeUser">
               {{ user.name }} ({{ user.username }})
             </li>
           </ul>
@@ -34,18 +36,15 @@
     </div>
 
     <div class="col-sm-8">
-      <div class="jumbotron">
-        <h1 class="display-3">The Minimal Angular App</h1>
-        <p class="lead">Our message is {{ message }}</p>
-        <hr class="my-4">
-    
-        <p class="lead">
-          <a class="btn btn-primary btn-lg" href="#" role="button">Lets Go</a>
-        </p>
-        </div>
+
+      <user-profile [user]="activeUser"></user-profile>
+
+      <div class="jumbotron" *ngIf="!activeUser">
+        <h2>Choose a User</h2>
+      </div>
     </div>
   </div>
-  
+
 </main>
 
 <footer class="text-center">
