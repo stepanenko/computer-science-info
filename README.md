@@ -4,4 +4,4 @@ Lessons 3 to 9 are deprecated (the most important files were copied from generat
 
 Total Duration: 02:03:46
 
-Current -> All done
+All done
