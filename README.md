@@ -2,6 +2,8 @@
 
 Lessons 3 to 9 are deprecated (the most important files were copied from generated angular 8 app).
 
-Total Duration: 02:03:46
+#### Duration: 02:03:46
+
+#### Release date: 05.12.2016
 
 All done
