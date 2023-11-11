@@ -30,6 +30,10 @@ SSO | Single Sign On
 IdP | Identity Provider
 ANSI | American National Standards Institute
 ISO | International Organization for Standardization
+IEEE | Institute of Electrical and Electronics Engineers
+POSIX | Portable Operating System Interface
+
+POSIX = Portable Operating System Interface, is a set of standards specifying the interface between a computer's operating system and application programs. It was developed by the IEEE to promote compatibility between operating systems. A POSIX-compliant environment provides a set of guidelines for how software interfaces with the operating system, covering aspects such as file systems, system calls, and command-line interfaces. POSIX aims to make it easier to write software that is compatible with multiple operating systems. Not all operating systems strictly adhere to POSIX standards, and some may have extensions or variations. The goal of POSIX is to facilitate interoperability between different systems
 
 UML = Unified Modeling Language - is a standardized modeling language consisting of an integrated set of diagrams, developed to help system and software developers for specifying, visualizing, constructing, and documenting the artifacts of software systems, as well as for business modeling and other non-software systems. The UML represents a collection of best engineering practices that have proven successful in the modeling of large and complex systems. The UML is a very important part of developing object oriented software and the software development process. The UML uses mostly graphical notations to express the design of software projects. Using the UML helps project teams communicate, explore potential designs, and validate the architectural design of the software.
 
