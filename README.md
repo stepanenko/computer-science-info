@@ -12,7 +12,7 @@ One complete cycle of a computer's CPU, also known as a clock cycle, involves th
 
 The CPU reads from various types of memory to execute instructions and store data during its operation. The main types of memory that the CPU interacts with are:
 
-- **RAM (Random Access Memory):** RAM is a volatile memory used by the CPU for temporarily storing data that is actively being used or processed. It allows for quick read and write operations and is a crucial component for the overall system performance. When you run a program, its code and data are loaded into RAM for fast access by the CPU.
+- **RAM (Random Access Memory):** RAM is a volatile (changeable, inconstant) memory used by the CPU for temporarily storing data that is actively being used or processed. It allows for quick read and write operations and is a crucial component for the overall system performance. When you run a program, its code and data are loaded into RAM for fast access by the CPU.
 
 - **Cache Memory:** Cache memory is a small-sized type of volatile computer memory that provides high-speed data access to the processor and stores frequently used computer programs, applications, and data. Modern CPUs have multiple levels of cache (L1, L2, L3) to store and retrieve data quickly.
 
